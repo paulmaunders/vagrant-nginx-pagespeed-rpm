@@ -1,0 +1,6 @@
+- hosts: default
+  user: vagrant
+  sudo: True
+  gather_facts: True
+  roles:
+    - ansible-role-nginx-pagespeed-rpm

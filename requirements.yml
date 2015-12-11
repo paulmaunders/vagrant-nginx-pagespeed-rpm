@@ -1,0 +1,2 @@
+- name: ansible-role-nginx-pagespeed-rpm
+  src: https://github.com/paulmaunders/ansible-role-nginx-pagespeed-rpm.git
