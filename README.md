@@ -1,5 +1,5 @@
 # vagrant-nginx-pagespeed-rpm
-A vagrant file with ansible provisioning which I use on my Centos lab server to test my [ansible role to create an nginx rpm with pagespeed support](https://github.com/paulmaunders/ansible-role-nginx-pagespeed-rpm).
+A vagrant file with ansible provisioning which can be used to test my [ansible role to create an nginx rpm with pagespeed support](https://github.com/paulmaunders/ansible-role-nginx-pagespeed-rpm).
 # Instructions
 To use this vagrant environment, firstly clone the project, then run...
 ```
